@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/FUNDA/IdeaProjects/TestNG_Kursu/src/Gun05/_01_Intro.java"><classes><class name="Gun05._01_Intro"><methods><include name="bSuite"/><include name="TestIntro1"/><include name="TestIntro2"/></methods></class></classes></test></suite>
